@@ -1,6 +1,6 @@
 # OCR Simulation App
 
-A web application that simulates Optical Character Recognition (OCR) functionality for processing and extracting text from images.
+A web application that simulates Optical Character Recognition (OCR) functionality for processing and extracting text from PDFs.
 
 ## Features
 
@@ -15,8 +15,6 @@ A web application that simulates Optical Character Recognition (OCR) functionali
 - Docker and Docker Compose (for containerized setup)
 
 ## Installation
-
-1. Install dependencies:
 
 ```bash
 npm install
